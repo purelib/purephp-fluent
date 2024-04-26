@@ -2,7 +2,7 @@
 namespace purephp\fluent;
 
 use purephp\fluent\contract\Result as ContractResult;
-use purephp\functional\maonad\contract\Either;
+use purephp\functional\monad\contract\Either;
 
 class Result implements ContractResult
 {
