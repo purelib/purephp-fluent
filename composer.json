@@ -1,0 +1,14 @@
+{
+    "name": "purephp/fluent",
+    "type": "library",
+    "license": "Apache-2.0",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {
+            "Purephp\\Fluent\\": "src/"
+        }
+    },
+    "require": {
+      "purephp/functional": "dev-main"
+    }
+}

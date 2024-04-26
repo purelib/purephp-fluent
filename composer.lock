@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e70ef54d45e3337ab88e9cd94e1a53af",
+    "packages": [
+        {
+            "name": "purephp/functional",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/purelib/purephp-functional.git",
+                "reference": "3603af87fd12614f0b97a2d05c1b1f3e8a50efd5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/purelib/purephp-functional/zipball/3603af87fd12614f0b97a2d05c1b1f3e8a50efd5",
+                "reference": "3603af87fd12614f0b97a2d05c1b1f3e8a50efd5",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Purephp\\Functional\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "support": {
+                "issues": "https://github.com/purelib/purephp-functional/issues",
+                "source": "https://github.com/purelib/purephp-functional/tree/main"
+            },
+            "time": "2024-04-26T06:50:24+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "purephp/functional": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
